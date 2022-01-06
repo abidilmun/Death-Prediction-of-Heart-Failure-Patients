@@ -1,4 +1,4 @@
-# Heart-Failure-Prediction
+# Death-Prediction-of-Heart-Failure-Patients
 
 # Introduction
 
